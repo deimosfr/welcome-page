@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome</title>
-    <link>http://www.deimos.fr/</link>
+    <link>https://www.deimos.fr/</link>
     <description>Recent content on Welcome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Pierre Mavro</copyright>
     
-	<atom:link href="http://www.deimos.fr/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.deimos.fr/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
