@@ -1,0 +1,37 @@
+languageCode = "en-us"
+title = "Welcome"
+baseurl = "https://www.deimos.fr/"
+theme = "aerial"
+
+[params]
+  name = "Pierre Mavro / Deimosfr"
+  about = "SRE Lead DevOps at Criteo &nbsp;&bull;&nbsp; Nousmotards Co-Founder &nbsp;&bull;&nbsp; Geek"
+  copyright = "to_remove"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "LinkedIn"
+  icon = "linkedin-square"
+  link = "https://fr.linkedin.com/in/pmavro"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "https://github.com/deimosfr"
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "https://twitter.com/deimosfr"
+
+[[params.social]]
+  medium = "Blog"
+  icon = "rss"
+  link = "http://blog.deimos.fr"
+
+[[params.social]]
+  medium = "Wiki"
+  icon = "wikipedia-w"
+  link = "http://wiki.deimos.fr"
