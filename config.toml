@@ -29,9 +29,9 @@ theme = "aerial"
 [[params.social]]
   medium = "Blog"
   icon = "rss"
-  link = "http://blog.deimos.fr"
+  link = "https://blog.deimos.fr"
 
 [[params.social]]
   medium = "Wiki"
   icon = "wikipedia-w"
-  link = "http://wiki.deimos.fr"
+  link = "https://wiki.deimos.fr"
